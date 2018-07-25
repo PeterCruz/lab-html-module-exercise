@@ -1,0 +1,48 @@
+nav {
+  background-color: #c12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding: 15px 20px;
+  font-family: "Source Sans Pro", "Lucida Grande", sans-serif;
+  font-weight: 600;
+}
+
+nav a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+
+header {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: rgb(32, 101, 136);
+  padding: 15px 20px;
+}
+
+.heart {
+  margin-right: 20px;
+}
+
+.top-left {
+  display: inline-block;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.searcher {
+  background-color: rgb(31, 82, 111);
+  min-width: 500px;
+  height: 40px;
+}
+
+.npm-logo {
+  height: 40px;
+}
